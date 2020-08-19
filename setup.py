@@ -4,7 +4,7 @@ install_requires = [
     'django',
 ]
 
-version = "0.3.1"
+version = "0.3.2"
 
 setup(name='django-medusa',
     version=version,
@@ -12,7 +12,7 @@ setup(name='django-medusa',
     author='Christian Schweinhardt', # update this as needed
     author_email='are.u.kidding@me.com', # update this as needed
     url='https://github.com/aufdenpunk/django-medusa/',
-    download_url='https://github.com/aufdenpunk/django-medusa/releases/tag/v0.3.1',
+    download_url='https://github.com/aufdenpunk/django-medusa/releases/tag/v0.3.2',
     packages=find_packages(),
     install_requires=install_requires,
     license='MIT',
